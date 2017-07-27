@@ -10,3 +10,7 @@ Some keyboard shortcuts:
 p: pause
 c: continue
 q, ESC: quit
+
+Screenshot:
+[Screenshot](https://github.com/RandyWaterhouse/TSP_simulated_annealing/blob/master/TSP_snap1.png)
+
