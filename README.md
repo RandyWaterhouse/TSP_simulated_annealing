@@ -12,5 +12,5 @@ c: continue
 q, ESC: quit
 
 Screenshot:
-![Screenshot](https://github.com/RandyWaterhouse/TSP_simulated_annealing/blob/master/TSP_snap2.png)
+![Screenshot](TSP_snap2.png)
 
