@@ -5,3 +5,8 @@ Here I provide some Python 2.7 code which determines approximate solutions to th
 The number of cities may be chosen from a pre-defined list (10, 20, 50, ...). If a new number of cities is selected, the simulation is restarted with that number of cities placed randomly on the map. 
 
 Please feel free to download and run the code. It requires Python 2.7, pygame, matplotlib and some standard packages like random, math, timeit, time, datetime.
+
+Some keyboard shortcuts:
+p: pause
+c: continue
+q, ESC: quit
