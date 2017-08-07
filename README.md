@@ -13,6 +13,8 @@ p: pause
 c: continue
 q, ESC: quit
 
+A video demo of this simulation can be found in my YouTube account: https://www.youtube.com/watch?v=2iBR8v2i0pM&index=5&list=PLlnnSiqU0W2SuojKlqQ0yxowK9VqeQKmF
+
 Screenshot:
 ![Screenshot](TSP_snap2.png)
 
